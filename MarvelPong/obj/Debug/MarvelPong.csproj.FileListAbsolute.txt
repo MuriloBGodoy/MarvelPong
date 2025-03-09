@@ -1,0 +1,11 @@
+C:\Users\Windows\source\repos\MarvelPong\MarvelPong\bin\Debug\MarvelPong.exe.config
+C:\Users\Windows\source\repos\MarvelPong\MarvelPong\bin\Debug\MarvelPong.exe
+C:\Users\Windows\source\repos\MarvelPong\MarvelPong\bin\Debug\MarvelPong.pdb
+C:\Users\Windows\source\repos\MarvelPong\MarvelPong\obj\Debug\MarvelPong.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\MarvelPong\MarvelPong\obj\Debug\MarvelPong.Pong.resources
+C:\Users\Windows\source\repos\MarvelPong\MarvelPong\obj\Debug\MarvelPong.CharacterForm.resources
+C:\Users\Windows\source\repos\MarvelPong\MarvelPong\obj\Debug\MarvelPong.Properties.Resources.resources
+C:\Users\Windows\source\repos\MarvelPong\MarvelPong\obj\Debug\MarvelPong.csproj.GenerateResource.cache
+C:\Users\Windows\source\repos\MarvelPong\MarvelPong\obj\Debug\MarvelPong.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\MarvelPong\MarvelPong\obj\Debug\MarvelPong.exe
+C:\Users\Windows\source\repos\MarvelPong\MarvelPong\obj\Debug\MarvelPong.pdb
